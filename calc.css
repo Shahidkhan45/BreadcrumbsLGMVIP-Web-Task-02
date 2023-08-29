@@ -2,7 +2,14 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
-  background-color:grey;
+  background-color: darkorchid ;
+}
+h1{
+  text-align: center;
+}
+.container{
+  justify-content: center;
+  text-align: center;
 }
 
 .button{
